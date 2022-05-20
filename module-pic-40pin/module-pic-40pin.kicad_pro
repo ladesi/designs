@@ -380,7 +380,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "specctra_dsn": "",
+      "specctra_dsn": "../../../../../home/django/Downloads/module-pic-40pin.dsn",
       "step": "",
       "vrml": ""
     },
