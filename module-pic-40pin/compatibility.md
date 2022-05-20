@@ -1,0 +1,5 @@
+# Compatibility
+
+- PIC16F452
+- PIC16F877A
+- PIC18F4550
