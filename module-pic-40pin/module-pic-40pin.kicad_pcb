@@ -62,7 +62,7 @@
     (aux_axis_origin 59.182 91.2876)
     (grid_origin 177.038 86.4616)
     (pcbplotparams
-      (layerselection 0x00010fc_ffffffff)
+      (layerselection 0x0000060_fffffffe)
       (disableapertmacros false)
       (usegerberextensions false)
       (usegerberattributes true)
@@ -88,7 +88,7 @@
       (plotinvisibletext false)
       (sketchpadsonfab false)
       (subtractmaskfromsilk false)
-      (outputformat 4)
+      (outputformat 1)
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
@@ -151,7 +151,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 47709ff5-53c7-47a2-b353-4ff05812ca40)
     )
-    (fp_text value "MountingHole_2.5mm_Pad" (at -1.016 -4.2164) (layer "F.Fab")
+    (fp_text value "MountingHole_2.5mm_Pad" (at -1.016 -4.2164) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 533e51d9-9a3d-4e1e-a47e-e0b0add75902)
     )
@@ -2293,7 +2293,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp a8ad6352-a3d1-4920-b380-d65b37e87272)
     )
-    (fp_text value "RB0_CONN" (at 4.628911 3.308111 90) (layer "F.Fab")
+    (fp_text value "RB0_CONN" (at 4.628911 3.308111 90) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp ce82c468-a41d-4e4e-9036-6163dd442175)
     )
@@ -2491,7 +2491,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 9fc14b61-1041-43e7-a0d7-5f687c1feed7)
     )
-    (fp_text value "MountingHole_2.5mm_Pad" (at 0 3.5) (layer "F.Fab")
+    (fp_text value "MountingHole_2.5mm_Pad" (at 0 3.5) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 6682d1db-f687-4b7f-89a9-27a6d541a0a1)
     )
@@ -2621,7 +2621,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 510d29b7-0140-407b-b458-9f244210e530)
     )
-    (fp_text value "MountingHole_2.5mm_Pad" (at -0.254 -3.7084) (layer "F.Fab")
+    (fp_text value "MountingHole_2.5mm_Pad" (at -0.254 -3.7084) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 4fef76ca-9b3c-4f45-ac23-27119db5f978)
     )
@@ -2644,7 +2644,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 3db2732b-7e8a-4930-8e03-116ebb99b120)
     )
-    (fp_text value "MountingHole_2.5mm_Pad" (at 0 3.5) (layer "F.Fab")
+    (fp_text value "MountingHole_2.5mm_Pad" (at 0 3.5) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp aa55872a-4674-4b1d-ba07-b4dfa586be5b)
     )
@@ -5230,7 +5230,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp bd7ee39d-b3a8-4b28-81ce-b28b86323d9f)
     )
-    (fp_text value "Conn_02x04_Odd_Even" (at -2.54 4.445) (layer "F.Fab")
+    (fp_text value "Conn_02x04_Odd_Even" (at -2.54 4.445) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 1be34f8d-4fa3-4ca2-827c-62fef1460dbe)
     )
