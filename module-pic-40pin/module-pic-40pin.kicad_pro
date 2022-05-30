@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 2.5,
-          "height": 5.0,
-          "width": 5.0
+          "drill": 1.0,
+          "height": 2.0,
+          "width": 2.0
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -121,7 +121,9 @@
       "track_widths": [
         0.0,
         0.3,
-        0.4
+        0.4,
+        0.5,
+        0.8
       ],
       "via_dimensions": [
         {
@@ -380,7 +382,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "",
+      "netlist": "module-pic-40pin.net",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
@@ -408,7 +410,7 @@
     "meta": {
       "version": 1
     },
-    "net_format_name": "",
+    "net_format_name": "KiCad",
     "ngspice": {
       "fix_include_paths": true,
       "fix_passive_vals": false,
