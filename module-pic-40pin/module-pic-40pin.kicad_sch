@@ -2838,7 +2838,7 @@
     (property "Value" "PORTC" (id 1) (at 104.14 92.71 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical" (id 2) (at 102.87 90.17 0)
+    (property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical" (id 2) (at 102.87 90.17 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 102.87 90.17 0)
@@ -3003,7 +3003,7 @@
     (property "Value" "PORTB" (id 1) (at 125.73 67.3099 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical" (id 2) (at 124.46 64.77 0)
+    (property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical" (id 2) (at 124.46 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 124.46 64.77 0)
@@ -3208,10 +3208,10 @@
       (reference "J5") (unit 1) (value "ANALOG") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x09_P2.54mm_Vertical")
     )
     (path "/8facef50-d0ac-4a7c-b3c7-b582d98f7097"
-      (reference "J6") (unit 1) (value "PORTC") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical")
+      (reference "J6") (unit 1) (value "PORTC") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical")
     )
     (path "/d910e842-2845-419f-9713-f52ef5062154"
-      (reference "J7") (unit 1) (value "PORTB") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical")
+      (reference "J7") (unit 1) (value "PORTB") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical")
     )
     (path "/7dee59ea-c7da-490c-a865-868d704c1039"
       (reference "J8") (unit 1) (value "PORTD") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical")
